@@ -9,7 +9,7 @@
 unsigned int WIDTH = 800;
 unsigned int HEIGHT = 800;
 unsigned int MAXBALLCOUNT = 10000;
-float RADIUS = 5.0f;
+float RADIUS = 8.0f;
 std::vector<Ball> balls;
 
 bool checkUpdateCollision(Ball& ball)
